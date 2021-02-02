@@ -1,0 +1,23 @@
+{
+  "name": "dine-restaurant",
+  "version": "1.0.0",
+  "description": "restaurant website challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile:sass": "node-sass src/sass/styles.scss src/css/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osocaramelosofer/dine-restaurant.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osocaramelosofer/dine-restaurant/issues"
+  },
+  "homepage": "https://github.com/osocaramelosofer/dine-restaurant#readme",
+  "devDependencies": {
+    "node-sass": "^5.0.0"
+  }
+}
