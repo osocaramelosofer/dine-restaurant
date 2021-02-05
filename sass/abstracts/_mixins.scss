@@ -21,3 +21,10 @@
   }
 
 }
+
+@mixin h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  line-height: 5.4rem;
+  letter-spacing: -0.5px;
+}
